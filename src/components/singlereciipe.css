@@ -1,0 +1,50 @@
+.list-group-item {
+    border: none;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+ 
+  
+  ul {
+    padding-left: 0;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .row {
+    margin-top: 20px;
+  }
+  
+  .col-md-6 {
+    padding: 0 15px;
+  }
+  
+  .breadcrumb {
+    margin-bottom: 20px;
+  }
+  
+  .ant-breadcrumb-link {
+    color: #1890ff;
+  }
+  
+  .ant-breadcrumb-link:hover {
+    color: #40a9ff;
+  }
+  
+  .anticon svg {
+    margin-right: 8px;
+  }
+  
+  .home-link {
+    font-size: 18px;
+    font-weight: bold;
+    color: #40a9ff;
+
+  }
+  
